@@ -1,3 +1,4 @@
+//Pseudocode start
 //Create let message = You have received this message because you have been chosen to open an important vault. Here is the secret combination:
 //Create 3 const variables using unique arithmetic operator(+*/) to equal vault combinations
 //Use num1, num2, and num3 as your 3 const variables
@@ -5,6 +6,7 @@
 //Make num2 = 40
 //Make num3 = 39
 //Add Alert for message, num1, num2, num3
+//Pseudocode Ends
 let message =
   "You have received this message because you have been chosen to open an important vault. Here is the secret combination:";
 // Added the 3 const variables for combination below
